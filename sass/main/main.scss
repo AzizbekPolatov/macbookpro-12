@@ -1,10 +1,4 @@
 @import url(../../sass/navbar/navbar.css);
 @import url(../../sass/header/header.css);
 @import url(../../sass/footer/footer.css);
-
-*{
-    @font-face {
-    font-family: Montserrat;
-    src: url(../../static/Montserrat-Regular.ttf)format('truetype');
-}
-}
+@import url(../../sass/header/header.css);
